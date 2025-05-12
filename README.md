@@ -1,4 +1,4 @@
-**Drinks App**
+***Drinks App***
 
 The Application follows the MVC design pattern with SDK 35 and updated Gradle file The App contains an Drink names(Static Data).
 
